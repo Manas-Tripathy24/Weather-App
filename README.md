@@ -17,3 +17,7 @@ A weather app built with **React** and **Weather API**.
 1. Clone the repo
 2. Run `npm install`
 3. Create a `.env` file in root and add API_URL and API_KEY
+
+## ✍️ Author
+- Developed by: Manas Ranjan Tripathy
+- Feel free to connect with me on LinkedIn
