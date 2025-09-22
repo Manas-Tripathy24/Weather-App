@@ -1,6 +1,6 @@
 # Weather App 🌤️
 
-A simple weather app built with **React** and **Weather API**.
+A weather app built with **React** and **Weather API**.
 
 ## Features
 - Search weather by city
